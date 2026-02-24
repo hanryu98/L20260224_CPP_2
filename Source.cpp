@@ -4,9 +4,11 @@ using namespace std;
 
 int main()
 {
-	cout << "Tomorrow" << endl;
-	cout << "The Day after Tomorrow" << endl;
-	cout << 9 * 9 << endl;
+	//4byte 2 ^ 32 = 0 ~ 4G
+	//무조건 초기화
+	int MoneyOfUnreal = 0;
+	//자료형 변수명 = 0;
+
 
 	return 0;
 }
