@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-	cout << "내일은" << endl;
-	cout << "수요일 입니다" << endl;
+	cout << "Tomorrow" << endl;
+	cout << "The Day after Tomorrow" << endl;
 	cout << 9 * 9 << endl;
 
 	return 0;
